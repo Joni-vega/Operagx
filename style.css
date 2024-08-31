@@ -1,0 +1,26 @@
+body{
+    background-color: rgba(1, 2, 85, 0.822);
+}
+nav{
+    align-items: center;
+    display: flex;
+
+    background-color: white;
+    margin-top: 50px;
+    margin-inline-start: 150px;
+    margin-inline-end: 150px;
+    border-radius: 50px;
+}
+
+input{
+    height: 46px;
+    border: 0px;
+    margin-left: 10px;
+}
+.lupa{
+    margin-inline-end: auto
+    height: 50px;
+}
+.google{
+    height: 50px;
+}
